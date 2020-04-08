@@ -1,5 +1,5 @@
 # test_git
 
-!(https://github.com/RusaDrako/test_git/logo_250.png)
+![Logo](https://raw.githubusercontent.com/RusaDrako/test_git/master/logo_250.png "RusaDrako")
 
 Просто тест работы c git
