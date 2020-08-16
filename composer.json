@@ -17,5 +17,8 @@
       "elbrus\\": "src/"
     }
   },
+  "bin": [
+    "bin/elbrus"
+  ],
   "repositories": {}
 }
